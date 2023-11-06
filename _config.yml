@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghav/shagird"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Raghav S"
 description              : &description "personal description"
