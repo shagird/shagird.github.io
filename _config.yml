@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Raghav Sharma"
-  avatar           : "raghav-profile1.jpg"
+  # avatar           : "raghav-profile1.jpg"
   bio              : "Final year Master's student interested in emergent behaviors of living systems"
 
   location         : "India"
