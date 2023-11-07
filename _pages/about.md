@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" width="300" height="300" src="/images/raghav-profile1.jpg">
+<img align="center" width="300" height="300" src="/images/raghav-profile1.jpg">
 
 I am a fifth-year BS-MS student at IISER Pune, India. I am an interdisciplinary major, with academic background in Biology, Applied Math, and Physics. I want to become a Computational Biophysicist.  I am currently working under the supervision of Dr. Tamás Vicsek, emeritus professor at the Department of Biological Physics, Eötvös University, Hungary, on one such problem. My role is to run molecular dynamics simulations and compare the results with the experimental data in order to validate our collective migration modeling scheme, whcih will elucidate its role in cell segregation.   
 
