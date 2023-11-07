@@ -17,7 +17,9 @@ With such an academic background, I am training to be a Computational Biophysici
 
 Research Interest
 ======
-My research interest are in explaining organismal and and sub-organismal emergent behaviors, through a quantitative lens and discover the novel physics that governs these living sytems. I am also interested in the prowess of physics in predicting evolutionary explanation. In Biology, according structure-function relationship I want to find out if the structure i.e emergent behavior(physics generated) can explain the biological function and its associated evolutionary characteritistics.
+My research interest are in explaining organismal and and sub-organismal emergent behaviors, through a quantitative lens and discover the novel physics that governs these living sytems. 
+
+I am also interested in the prowess of physics in predicting evolutionary explanation. In Biology, according structure-function relationship I want to find out if the structure i.e emergent behavior(physics generated) can explain the biological function and its associated evolutionary characteritistics.
 
 Current Research Projects
 ======
