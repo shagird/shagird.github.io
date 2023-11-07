@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="left" width="300" height="300" src="/images/raghav-profile1.jpg">
+<img align="right" width="300" height="300" src="/images/raghav-profile1.jpg">
 
 
 
