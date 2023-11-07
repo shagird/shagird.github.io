@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align='right' width="300" height="300" src="/images/raghav-profile1.jpg">
+<img align='right' width="400" height="400" src="/images/raghav-profile1.jpg">
 
-I am a fifth-year BS-MS student at IISER Pune, India. I am an interdisciplinary major, with academic background in Biology, Applied Math, and Physics. I want to become a Computational Biophysicist.  I am currently working under the supervision of Dr. Tamás Vicsek, emeritus professor at the Department of Biological Physics, Eötvös University, Hungary, on one such problem. My role is to run molecular dynamics simulations and compare the results with the experimental data in order to validate our collective migration modeling scheme, whcih will elucidate its role in cell segregation.   
+I am a fifth-year BS-MS student at IISER Pune, India. I am an interdisciplinary major, with coursework in Biology, Applied Math, and Physics. I am actively involved in research on physics of living systems. With such academic background I am training to be a Computational Biophysicist exploring emergent phenomena in living systems. 
 
 Currently I am doing my Master's thesis as a Visiting Student at the Weizmann Institute of Science, Israel under the supervision of Dr. Nir Gov at the Department of Chemical and Biological Physics. 
 
@@ -26,6 +26,7 @@ Pattern formation of segregating active particles in 3D
 
 **Emeritus Professor, Department of Biological Physics, Eötvös University, Hungary**
 
+My role is to run molecular dynamics simulations and compare the results with the experimental data in order to validate our collective migration modeling scheme, whcih will elucidate its role in cell segregation.   
 
 Swarming midges as self-propelled particles with long-range interaction
 ------
