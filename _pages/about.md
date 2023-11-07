@@ -19,6 +19,7 @@ My research interest are in explaining organismal and and sub-organismal emergen
 
 Projects
 ======
+
 Pattern formation of segregating active particles in 3D
 ------
 
