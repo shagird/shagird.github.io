@@ -23,13 +23,15 @@ Current Projects
 Pattern formation of segregating active particles in 3D
 ------
 **PI: Dr. Tamás Vicsek**
+
 **Emeritus Professor, Department of Biological Physics, Eötvös University, Hungary**
 
 
 Swarming midges as self-propelled particles with long-range interaction
 ------
-# PI: Dr. Nir Gov
-# Professor, Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel
+**PI: Dr. Nir Gov**
+
+**Professor, Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel**
 
 A data-driven personal website
 ======
