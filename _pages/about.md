@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align: right"><img width="300" height="300" src="/images/raghav-profile1.jpg"></p>
+<img align='right' width="300" height="300" src="/images/raghav-profile1.jpg">
 
 I am a fifth-year BS-MS student at IISER Pune, India. I am an interdisciplinary major, with academic background in Biology, Applied Math, and Physics. I want to become a Computational Biophysicist.  I am currently working under the supervision of Dr. Tamás Vicsek, emeritus professor at the Department of Biological Physics, Eötvös University, Hungary, on one such problem. My role is to run molecular dynamics simulations and compare the results with the experimental data in order to validate our collective migration modeling scheme, whcih will elucidate its role in cell segregation.   
 
@@ -17,12 +17,19 @@ Research Interest
 ======
 My research interest are in explaining organismal and and sub-organismal emergent behaviors, through a quantitative lens and discover the novel physics that governs these living sytems. I am also interested in the prowess of physics in predicting evolutionary explanation. In Biology, according structure-function relationship I want to find out if the structure i.e emergent behavior(physics generated) can explain the biological function and its associated evolutionary characteritistics.
 
-Projects
+Current Projects
 ======
 
 Pattern formation of segregating active particles in 3D
 ------
+# PI: Dr. Tamás Vicsek
+# Emeritus Professor, Department of Biological Physics, Eötvös University, Hungary
 
+
+Swarming midges as self-propelled particles with long-range interaction
+------
+# PI: Dr. Nir Gov
+# Professor, Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel
 
 A data-driven personal website
 ======
