@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img align='right' width="400" height="400" src="/images/raghav-profile1.jpg">
 
-I am a fifth-year BS-MS student at IISER Pune, India. I am doing my Master's thesis as a Visiting Student at the Weizmann Institute of Science, Israel
+I am a fifth-year BS-MS student at IISER Pune, India, doing my Master's thesis as a Visiting Student at the Weizmann Institute of Science, Israel.
 
 I am an interdisciplinary major, with coursework in Biology, Applied Math, and Physics. Additionally, I am actively involved in research on physics of living systems. 
 
@@ -21,7 +21,7 @@ My research interest are in explaining organismal and and sub-organismal emergen
 
 I am also interested in the prowess of physics in predicting evolutionary explanation. In Biology, according structure-function relationship I want to find out if the structure i.e emergent behavior(physics generated) can explain the biological function and its associated evolutionary characteritistics.
 
-Current Research Projects
+Current Projects
 ======
 
 Pattern formation of segregating active particles in 3D
