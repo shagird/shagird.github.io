@@ -1,6 +1,8 @@
 ---
 title: "Pattern formation of segregating active particles in 3D"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "PI: Dr. Tamás Vicsek @Eötvös University, Hungary
+<br/>
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 **PI: Dr. Tamás Vicsek\
