@@ -22,8 +22,8 @@ Current Projects
 
 Pattern formation of segregating active particles in 3D
 ------
-# PI: Dr. Tamás Vicsek
-# Emeritus Professor, Department of Biological Physics, Eötvös University, Hungary
+#### PI: Dr. Tamás Vicsek
+#### Emeritus Professor, Department of Biological Physics, Eötvös University, Hungary
 
 
 Swarming midges as self-propelled particles with long-range interaction
