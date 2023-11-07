@@ -1,7 +1,9 @@
 ---
-title: "Pattern formation of segregating active particles in 3D"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Swarming midges as self-propelled particles with long-range interaction"
+excerpt: "PI: Dr. Nir Gov\
+Professor, Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-**PI: Dr. Tamás Vicsek\
-Emeritus Professor, Department of Biological Physics, Eötvös University, Hungary**
+**PI: Dr. Nir Gov\
+Professor, Department of Chemical and Biological Physics, Weizmann Institute of Science, Israel**
