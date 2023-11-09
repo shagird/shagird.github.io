@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align='right' width="375" height="375" src="/images/raghav-profile1.jpg">
+<img align='right' width="400" height="400" src="/images/raghav-profile1.jpg">
 
 I am a fifth-year BS-MS student at IISER Pune, India, currently engaged in my Master's thesis as a Visiting Student at the Weizmann Institute of Science, Israel.
 
