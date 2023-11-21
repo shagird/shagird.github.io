@@ -2,6 +2,7 @@
 title: "Pattern formation of segregating active particles in 3D"
 excerpt: "PI: Dr. Tamás Vicsek @Eötvös Loránd University, Hungary
 <br/>
+<br/>
 Modeling collective cell migration and trying to understand its role in the emergent pattern formation in experiments of 3D cell segregation. 
 <br/><img src='/images/500x300.png'>"
 collection: portfolio
