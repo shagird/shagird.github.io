@@ -17,7 +17,5 @@ My passion lies in becoming a Computational Biophysicist, specializing in the ex
 
 Research Interest
 ======
-My research interest are in explaining organismal and and sub-organismal emergent behaviors, through a quantitative lens and discover the novel physics that governs these living sytems. 
-
-I am also interested in the prowess of physics in predicting evolutionary explanation. In Biology, according structure-function relationship I want to find out if the structure i.e emergent behavior(physics generated) can explain the biological function and its associated evolutionary characteritistics.
+My research interests are in explaining emergent behaviors/structures, appearing at organismal and and sub-organismal scales, through a quantitative lens and discover the novel physics that governs these living sytems. This will encompass both the mechanistic basis of the behavior and its functional i.e. eco-evolutionary and/or physiological context. The interaction of these properties are reffered to as structure-function relationship. I want to find out if the structure i.e emergent behavior can explain the biological function and its associated evolutionary context. 
 
