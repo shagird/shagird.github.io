@@ -4,7 +4,7 @@ excerpt: "PI: Dr. Tamás Vicsek @Eötvös Loránd University, Hungary
 <br/>
 <br/>
 Modeling collective cell migration and trying to understand its role in the emergent pattern formation in experiments of 3D cell segregation. 
-<br/><img src='/images/NG1.png'>"
+<br/><img src='/images/TV1.png'>"
 collection: portfolio
 ---
 **PI: Dr. Tamás Vicsek\
