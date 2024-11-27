@@ -21,15 +21,15 @@
 title: Shagirdi
 email: raghavin@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Shagird in Urdu 
+  Shagird in Urdu means disciple/student. I am Biophysics PhD student, and this is site a reflection of my current learnings.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shagird_e_hind
 github_username:  shagird
 
 # Build settings
-# theme: minima
-remote_theme: huangyz0918/moving 
+theme: minima
+# remote_theme: huangyz0918/moving 
 plugins:
   - jekyll-feed
 
