@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pattern formation of segregating active particles in 3D"
-date: 2024-03-27
+date: 2024-11-27
 category: project
 short_description: "Modeling collective cell migration and trying to understand its role in the emergent pattern formation in experiments of 3D cell segregation."
 project_image: "/assets/images/TV1.png"

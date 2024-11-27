@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Swarming midges as self-propelled particles with long-range interaction"
-date: 2024-03-27
+date: 2024-11-27
 category: project
-short_description: "Simulating active matter models of midge swarms using a modified gravitational potential to model acoustic interactions to verify if the model can better reproduce the core dynamics of the swarms"
+short_description: "Simulating active matter models of midge swarms using a modified gravitational potential to model acoustic interactions to verify if the model can better reproduce the core dynamics of the swarms."
 project_image: "/assets/images/NG1.png"
 ---
 
