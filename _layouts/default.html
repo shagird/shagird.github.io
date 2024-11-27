@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body>
+    <nav>
+      <a href="/">{{ site.title }}</a>
+      <!-- <a href="/cv">cv</a> -->
+      <a href="/posts">posts</a>
+      <a href="/projects">projects</a>
+      <!-- <a href="/books">books</a> -->
+      <!-- <a href="/publications">publications</a> -->
+    </nav>
+    <main>
+      {{ content }}
+    </main>
+    <!-- Add discription in the _config.yml as a footer -->
+    <footer>
+      <p>{{ site.description }}</p>
+    </footer> 
+  </body>
+</html>

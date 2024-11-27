@@ -18,20 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shagirdi
+title: shagirdi
 email: raghavin@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Shagird in Urdu means disciple/student. I am Biophysics PhD student, and this is site a reflection of my current learnings.  
+  Shagirdi in Urdu means apprenticeship. I am Biophysics PhD student, and this is site a reflection of current learnings through my shagirdi.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: shagird_e_hind
-github_username:  shagird
+# twitter_username: shagird_e_hind
+# github_username:  shagird
 
 # Build settings
 theme: minima
 # remote_theme: huangyz0918/moving 
 plugins:
   - jekyll-feed
+
+# Collections 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
