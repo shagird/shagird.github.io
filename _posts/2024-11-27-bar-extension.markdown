@@ -2,7 +2,7 @@
 layout: post
 title:  "Energy minimization for the bar extension problem" 
 date:   2024-11-27 
-categories: 
+categories: physics
 ---
 
 **Source:** [YouTube video by G R Krishna Chand Avatar](https://youtu.be/3aXA0ySDmHw?si=BL8QN9w8nWwZHrsG) 
@@ -11,13 +11,13 @@ categories:
 Total internal energy by integerating over internal (strain) energy density 
 
 $$
-U = \frac{1}{2}\int\sigma\epsilon d\tau = \frac{1}{2}\int(YA\frac{du}{dx})\frac{du}{dx} dx
+U = \frac{1}{2}\int\sigma\epsilon d\tau = \frac{1}{2}\int\left(YA\frac{du}{dx}\right)\frac{du}{dx} dx
 $$
 
 Work done by external energy 
 
 $$
-W = \int fudx
+W = \int qudx
 $$
 
 Total potential energy 
@@ -40,7 +40,7 @@ $$
 \delta \Pi = 0 \iff \frac{\partial \pi}{\partial u} - \frac{d}{dx}\frac{\partial \pi}{\partial u'} = 0
 $$ 
 
-Then the governing equation for beam extension problem becomes
+Then the governing equation for beam extension problem becomes:
 
 $$
 -q - \frac{d}{dx}\left(YA\frac{du}{dx}\right) = 0

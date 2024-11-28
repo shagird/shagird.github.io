@@ -4,6 +4,10 @@ layout: page
 permalink: /posts/
 ---
 
+<div class="view-options">
+  <a href="/categories/">sort posts by category</a>
+</div>
+
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
 {% for year in postsByYear %}

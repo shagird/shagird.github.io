@@ -21,9 +21,9 @@
 title: shagirdi
 email: raghavin@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Shagirdi in Urdu means apprenticeship. I am Biophysics PhD student, and this is site a reflection of current learnings through my shagirdi.  
+  Shagirdi in Urdu means apprenticeship. I am Biophysics PhD student, and this site is a reflection of current learnings through my shagirdi.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "shagird.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: shagird_e_hind
 # github_username:  shagird
 
@@ -38,6 +38,16 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
+
+# Categories for how the URL works 
+# permalink: /posts/:title/ #/:categories/:title/
+defaults:
+  # for blog posts
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /posts/:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
