@@ -32,7 +32,7 @@ theme: minima
 # remote_theme: huangyz0918/moving 
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 # Collections 
 collections:
   projects:
